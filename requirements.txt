@@ -1,0 +1,12 @@
+pandas
+numpy
+Seaborn
+scikit-learn
+matplotlib
+datetime
+# pickle
+ipykernel
+streamlit
+prophet
+statsmodels
+ # xgboost
